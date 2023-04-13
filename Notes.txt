@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=gNvuZTg0H1k
+dotnet ef database update
+https://learn.microsoft.com/en-us/ef/core/cli/dotnet 
